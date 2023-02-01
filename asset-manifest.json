@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Contact_manager/static/css/main.00f56e36.css",
+    "main.js": "/Contact_manager/static/js/main.007caee4.js",
+    "static/media/user.png": "/Contact_manager/static/media/user.a6143582309785dca610.png",
+    "static/media/trash.png": "/Contact_manager/static/media/trash.5d35c8ef79eca32546f1.png",
+    "index.html": "/Contact_manager/index.html",
+    "main.00f56e36.css.map": "/Contact_manager/static/css/main.00f56e36.css.map",
+    "main.007caee4.js.map": "/Contact_manager/static/js/main.007caee4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00f56e36.css",
+    "static/js/main.007caee4.js"
+  ]
+}
